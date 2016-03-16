@@ -19,4 +19,4 @@
           android:showAsAction="always"
           android:title="@string/sample_show_log" />
 </menu>
-<!-- From: file:/Users/user/Google%20雲端硬碟/程式碼/android/UVDemo/Application/src/main/res/menu/main.xml -->
+<!-- From: file:/Users/user/AndroidStudioProjects/UVDemo/Application/src/main/res/menu/main.xml -->

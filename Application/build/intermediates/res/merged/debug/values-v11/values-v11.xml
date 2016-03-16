@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/user/Google%20雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/Users/user/AndroidStudioProjects/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Base.TextAppearance.AppCompat.Inverse">
         <item name="android:textColor">?android:attr/textColorPrimaryInverse</item>
@@ -54,7 +54,7 @@
     </style>
     <style name="Base.Widget.AppCompat.ProgressBar.Horizontal" parent="android:Widget.Holo.ProgressBar.Horizontal">
     </style>
-    <!-- From: file:/Users/user/Google%20雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.9.1/res/values-v11/values-v11.xml -->
+    <!-- From: file:/Users/user/AndroidStudioProjects/UVDemo/Application/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.9.1/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="MD_Dark" parent="Theme.AppCompat.Dialog.Alert">
         <item name="android:windowMinWidthMajor">@dimen/abc_dialog_min_width_major</item>
@@ -90,7 +90,7 @@
         <item name="android:windowAnimationStyle">@style/MD_WindowAnimation</item>
         <item name="android:backgroundDimEnabled">true</item>
     </style>
-    <!-- From: file:/Users/user/Google%20雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
+    <!-- From: file:/Users/user/AndroidStudioProjects/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/res/values-v11/values-v11.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="Platform.V11.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V11.AppCompat.Light"/>
@@ -198,7 +198,7 @@
         <item name="android:actionModePasteDrawable">?actionModePasteDrawable</item>
     </style>
     <style name="Platform.Widget.AppCompat.Spinner" parent="android:Widget.Holo.Spinner"/>
-    <!-- From: file:/Users/user/Google%20雲端硬碟/程式碼/android/UVDemo/Application/src/main/res/values-v11/template-styles.xml -->
+    <!-- From: file:/Users/user/AndroidStudioProjects/UVDemo/Application/src/main/res/values-v11/template-styles.xml -->
     <eat-comment/>
     <style name="Theme.Base" parent="android:Theme.Holo.Light"/>
 </resources>

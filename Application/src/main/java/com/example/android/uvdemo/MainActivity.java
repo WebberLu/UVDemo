@@ -160,7 +160,7 @@ public class MainActivity extends SampleActivityBase implements LocationListener
 
         @Override
         public int getCount() {
-            return 2;
+            return 3;
         }
 
         @Override
@@ -170,6 +170,8 @@ public class MainActivity extends SampleActivityBase implements LocationListener
                     return new UVFragment();
                 case 1:
                     return new AQXFragment();
+                case 2:
+                    return new RealtimeRainfallFragment();
                 default:
                     return null;
             }
@@ -185,6 +187,9 @@ public class MainActivity extends SampleActivityBase implements LocationListener
                     break;
                 case 1:
                     mAb.setTitle("空氣品質");
+                    break;
+                case 2:
+                    mAb.setTitle("十分鐘雨量資料");
                     break;
                 default:
 
