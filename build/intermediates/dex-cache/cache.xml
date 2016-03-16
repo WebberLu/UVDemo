@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/user/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-fec45a56cf30bd2e58e7e2989ce8c15ad5a9af37.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1134458f31b57c1b185e9efabba10219d41f2c85">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-336b5dfd34c957f0fe3eaa52ba33a4ba94d266fa.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-29dbb042f313db4a58c516c3ebe25146e0b52051.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/library-2.4.0-9625871c7679f09f1ff3a3f89cc2ecc2f7cf7f0e.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.github.dexafree/materiallist/3.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="70036e565f7b7e4345e788ee814e91dd15c4d76e">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-041b1002e3616ebd7c83b0e81de3569a7ed18e25.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-795d3fd21791b918dde4bb84e20f99082abde3e5.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-b690fa63453d7e4b297e2674b7dbd2026da43520.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-0be5cc8f656d5a2b6667de3eaece8f0f31516b3b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.afollestad/material-dialogs/0.7.9.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="278810b7c706bc3786d4dcb3f93f9afbb49e7c9a">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-3f9658dd7a0eab9ebde802865a8ab9f3e50add9b.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-7a99e0760384b279c7f83e212ebbbb9134368250.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/volley/volley.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/volley-6dd077aaded2779292e8cc1526a89044c8e051e0.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-682f661d914e3df8a5356cb285a5fde9a41ae277.jar" />
+    </item>
+    <item
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/picasso-2.4.0-c6c80e2dbe7282888eb3314797cc5c433bee7f0c.jar" />
+    </item>
+    <item
+        jar="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="40e7757d9b06db670062ddb3cf5b30c129b2fd8c">
+        <dex dex="/Users/user/Google 雲端硬碟/程式碼/android/UVDemo/Application/build/intermediates/pre-dexed/debug/classes-13fcd06e0ab83321b20de20a2f5f32c3136c39c1.jar" />
+    </item>
+
+</items>
